@@ -1,3 +1,2 @@
 Hello There!
-This Project is to explore the Data about Covid 19 found in the page 'Our World in Data'
-To practice SQL and get some insights about it
+These are my Portfolio Projects using SQL and Python to explore, clean and analyze data
